@@ -1,0 +1,2 @@
+# VAISHNAVI-24075A7203
+Dbms Architeture
